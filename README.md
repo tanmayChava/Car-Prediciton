@@ -6,7 +6,7 @@ A machine learning project that predicts the selling price of used cars using da
 Source: CarDekho (public dataset)
 
 Format: CSV
-
+ 
 Columns Include:
 
 name: Car model name (dropped during preprocessing)
